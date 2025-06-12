@@ -19,7 +19,7 @@ const Signup = () => {
         setForm((prev) => ({ ...prev, [name]: value }));
     };
     const handleSubmit=()=>{
-        //we can write our custom code here to fetch an APIand register user. By the time we are just using Toast
+        //just using Toast
         toast.success('Registration successful! Please login.')
         navigate('/Signin');
     }
