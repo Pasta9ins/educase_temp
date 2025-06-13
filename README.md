@@ -1,5 +1,14 @@
-To run the application use command: npm run dev
-notification : react hot toast
-icons : react icons
-design : tailwindcss
-made by : Anirudha Chaudhary
+💬 My Application
+A modern and responsive web app with sleek UI and real-time feedback.
+
+⚡Getting Started:
+To run the application locally:
+npm run dev
+
+🔧 Tech Stack:
+⚡ Framework: React
+🎨 Styling: Tailwind CSS
+🔔 Notifications: React Hot Toast
+🧩 Icons: React Icons
+
+Made by : Anirudha Chaudhary
